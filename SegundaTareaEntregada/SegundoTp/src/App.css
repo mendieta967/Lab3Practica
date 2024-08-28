@@ -1,0 +1,28 @@
+*{
+  
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+table,th , td {
+    border: 1px solid;
+    padding: 15px;
+    color: white;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+h1{
+    color: red;
+} p{
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    text-decoration: underline;
+}
